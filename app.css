@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: rgb(194, 194, 194);
+}
+header {
+  height: 10vh;
+  width: 100vw;
+  background-color: rgb(8, 47, 54);
+  color: rgb(194, 194, 194);
+  text-align: center;
+  font-size: 4vh;
+}
+#ticker-text {
+  padding: 15px 10px;
+  border-radius: 10px;
+  border: 2px black solid;
+  background-color: rgb(194, 194, 194);
+}
+#ticker-btn {
+  padding: 15px 10px;
+  border-radius: 10px;
+  border: 2px black solid;
+  background-color: rgb(194, 194, 194);
+}
+#container {
+  text-align: center;
+  font-size: 3vh;
+}
+#ticker-form {
+  text-align: center;
+  margin-top: 2vh;
+}
